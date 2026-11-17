@@ -1,0 +1,6 @@
+model,market,num_topics,outliers,c_v,topic_diversity
+lda,ALL,15,0,0.3846,0.5533
+nmf,ALL,15,0,0.396,0.6533
+top2vec,ALL,2,0,0.5271,1.0
+bertopic,ALL,2,0,0.4365,0.8
+fastopic,ALL,15,0,0.4449,1.0

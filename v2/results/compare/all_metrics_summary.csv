@@ -1,0 +1,16 @@
+model,market,num_topics,outliers,c_v,topic_diversity
+lda,US_2016_2022,15,0,0.4003,0.5467
+nmf,US_2016_2022,15,0,0.4234,0.6667
+top2vec,US_2016_2022,2,0,0.4759,1.0
+bertopic,US_2016_2022,9,0,0.3728,0.7333
+fastopic,US_2016_2022,15,0,0.4862,1.0
+lda,US,15,0,0.356,0.5
+nmf,US,15,0,0.388,0.6267
+top2vec,US,2,0,0.4224,1.0
+bertopic,US,7,0,0.3736,0.7143
+fastopic,US,15,0,0.4159,1.0
+lda,GB,15,0,0.3529,0.5667
+nmf,GB,15,0,0.4314,0.66
+top2vec,GB,5,0,0.3521,1.0
+bertopic,GB,6,0,0.3607,0.7333
+fastopic,GB,15,0,0.45,1.0

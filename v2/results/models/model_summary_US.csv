@@ -1,0 +1,6 @@
+model,market,num_topics,outliers,docs,runtime_sec
+lda,US,15,0,369,22.2
+nmf,US,15,0,369,3.72
+top2vec,US,2,0,369,31.17
+fastopic,US,15,0,369,95.82
+bertopic,US,7,0,369,36.96

@@ -1,0 +1,6 @@
+model,market,num_topics,outliers,c_v,topic_diversity
+lda,US,15,0,0.356,0.5
+nmf,US,15,0,0.388,0.6267
+top2vec,US,2,0,0.4224,1.0
+bertopic,US,7,0,0.3736,0.7143
+fastopic,US,15,0,0.4159,1.0

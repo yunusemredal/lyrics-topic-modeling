@@ -1,0 +1,6 @@
+model,market,num_topics,outliers,docs,runtime_sec
+lda,GB,15,0,400,37.14
+nmf,GB,15,0,400,5.02
+top2vec,GB,5,0,400,4.38
+fastopic,GB,15,0,400,114.0
+bertopic,GB,6,0,400,13.48

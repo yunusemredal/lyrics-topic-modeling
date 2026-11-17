@@ -1,0 +1,26 @@
+# Data never leaves the machine (copyrighted lyrics)
+data/*
+docs/*
+data/
+!data/README.md
+*.csv
+*.tsv
+# ... but computed result tables ARE published (linked from README/FINDINGS)
+!v2/results/**/*.csv
+
+# Models & caches
+*.pkl
+*.h5
+*.model
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environment
+.env
+.venv/
+
+# Spotify OAuth token cache (secret)
+.cache
+.cache-*
+.env*
