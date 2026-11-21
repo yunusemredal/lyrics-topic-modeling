@@ -6,6 +6,10 @@ Topic modeling on the lyrics of the most-streamed songs in the US and the UK (20
 
 > Started as a Text Mining course project at Kocaeli University (2022, hand-written on Google Colab). Revisited in 2026 as a fully reproducible pipeline.
 
+![Topics over time, US 2016–2025](v2/results/compare/topics_over_time_US_2016_2025.png)
+
+**📊 Full analysis report: [FINDINGS.md](v2/results/FINDINGS.md)** · **🖼️ Word clouds for every model: [wordclouds/](v2/results/wordclouds/)** · **📈 Metrics: [eval/](v2/results/eval/)**
+
 ## Repository at a Glance
 
 ```
@@ -113,6 +117,10 @@ MIT — see [LICENSE](LICENSE). The license covers the code only; lyrics and cha
 ABD ve Birleşik Krallık listelerinde en çok dinlenen şarkıların sözleri üzerinde konu modelleme (2016–2025): popüler müziğin temaları on yılda nasıl değişti — ve aynı on yılda konu modelleme teknolojisi LDA'dan (2003) FASTopic'e (2024) nasıl evrildi?
 
 > Kocaeli Üniversitesi Metin Madenciliği dersi projesi olarak başladı (2022, Google Colab'da elle yazıldı). 2026'da uçtan uca yeniden üretilebilir bir pipeline olarak yeniden ele alındı.
+
+![Zaman içinde konular, ABD 2016–2025](v2/results/compare/topics_over_time_US_2016_2025.png)
+
+**📊 Tam analiz raporu: [FINDINGS.md](v2/results/FINDINGS.md)** · **🖼️ Her modelin kelime bulutları: [wordclouds/](v2/results/wordclouds/)** · **📈 Metrikler: [eval/](v2/results/eval/)**
 
 ## Depoya Bakış
 
